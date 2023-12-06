@@ -3,7 +3,7 @@
 namespace app\models;
 
 use Yii;
-
+//EDGAR SEBASTIAN NOH UC MODIFICACION//
 /**
  * This is the model class for table "productos".
  *
