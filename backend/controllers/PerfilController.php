@@ -8,7 +8,7 @@ use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 use common\models\PermisosHelpers;
-
+// Esteban Heredia Caamal
 /**
  * PerfilController implements the CRUD actions for Perfil model.
  */
@@ -155,6 +155,6 @@ class PerfilController extends Controller
             return $model;
         }
 
-        throw new NotFoundHttpException('The requested page does not exist.');
+        throw new NotFoundHttpException('The requested Page no exist.');
     }
 }
