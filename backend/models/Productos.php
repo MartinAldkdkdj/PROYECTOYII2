@@ -27,7 +27,7 @@ class Productos extends \yii\db\ActiveRecord
     }
 
     /**
-     * {@inheritdoc}
+     * IVAN SANCHEZ 
      */
     public function rules()
     {
